@@ -1,0 +1,9 @@
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Form1.resources
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+c:\users\web app develop .net\documents\visual studio 2013\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
